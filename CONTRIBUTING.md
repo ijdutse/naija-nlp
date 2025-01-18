@@ -72,7 +72,7 @@ To maintain consistency across the repository, please follow these guidelines wh
    ```
 
  ### 2. **Datasets**
-   - Add datasets to the appropriate markdown file in the 'datasets/' folder. See example:
+   - Add datasets to the appropriate markdown file in the 'datasets/' folder (see example).
    - Example: 
   
    ```
@@ -81,6 +81,13 @@ To maintain consistency across the repository, please follow these guidelines wh
    - **Language(s)**: The languages covered by the dataset.
    - **Size**: The size of the dataset (if available).
    - **License**: The license under which the dataset is distributed.
+
+   ### [Universal Dependencies](https://universaldependencies.org/)
+   - **Description**: A collection of annotated datasets for dependency parsing in over 100 languages.
+   - **Language(s)**: Multilingual
+   - **Size**: Varies by language
+   - **License**: CC BY-SA 4.0
+```
  
-  ```
+  
 
