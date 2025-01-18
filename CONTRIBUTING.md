@@ -69,3 +69,18 @@ To maintain consistency across the repository, please follow these guidelines wh
    - **Authors**: Jacob Devlin et al.
    - **Summary**: Introduces BERT, a transformer-based model that achieves state-of-the-art results in NLP tasks.
    - **Key Insight**: Pre-training on large corpora and fine-tuning on specific tasks improves performance.
+   ```
+
+ ### 2. **Datasets**
+   - Add datasets to the appropriate markdown file in the 'datasets/' folder. See example:
+   - Example: 
+  
+   ```
+   ### [Dataset Name](link-to-dataset)
+   - **Description**: A brief description of the dataset.
+   - **Language(s)**: The languages covered by the dataset.
+   - **Size**: The size of the dataset (if available).
+   - **License**: The license under which the dataset is distributed.
+ 
+  ```
+
