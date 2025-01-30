@@ -13,3 +13,9 @@ Please read our [Contribution Guidelines](CONTRIBUTING.md) to add new resources 
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## Highlight
+- 📑 Curated list of LR-NLP research papers.
+- 🔄 Regular updates with the latest advancements.
+- 🤝 Community-driven contributions and discussions.
+- 🛠️ Tools and resources for practical implementation.
