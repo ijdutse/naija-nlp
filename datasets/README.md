@@ -10,10 +10,20 @@ This folder contains curated datasets relevant to NLP, with a focus on low-resou
 - Browse the markdown files in this folder to find datasets relevant to your needs.
 - Each dataset entry includes a link to the source, a description, and other metadata.
 
-## Contributing
-If you know of a dataset that should be added, please follow the [contribution guidelines](../CONTRIBUTING.md) to submit a pull request.
 
-## Resources
+## List of Datasets
+### Hausa Language
+### Igbo Language 
+### Yoruba Language 
+
+### Generic
+- [GLUE Benchmark](https://gluebenchmark.com/)
+- [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
+
+
+## Data Sources
 - [Universal Dependencies](https://universaldependencies.org/): A collection of annotated datasets for dependency parsing.
 - [Common Crawl](https://commoncrawl.org/): A large-scale multilingual web corpus.
   
+## Contributing
+If you know of a dataset that should be added, please follow the [contribution guidelines](../CONTRIBUTING.md) to submit a pull request.
