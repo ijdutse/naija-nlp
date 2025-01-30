@@ -18,3 +18,13 @@
 | [T5: Exploring the Limits of Transfer Learning](https://arxiv.org/abs/1910.10683) | Raffel et al. | 2019 | [PDF](https://arxiv.org/pdf/1910.10683.pdf) |
 
 
+
+<details>
+<summary><b>Transformers and Pre-trained Models</b></summary>
+
+| Title | Authors | Year | Link |
+|-------|---------|------|------|
+| [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | Vaswani et al. | 2017 | [PDF](https://arxiv.org/pdf/1706.03762.pdf) |
+| [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805) | Devlin et al. | 2018 | [PDF](https://arxiv.org/pdf/1810.04805.pdf) |
+
+</details>
