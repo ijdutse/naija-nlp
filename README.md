@@ -3,9 +3,9 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 
 ## Categories
 - 📑 [Curated list of LR-NLP research papers](/papers)
-- [Datasets](/datasets)
+- 📊 [Relevant datasets for LR-NLP Projects](/datasets)
 - 🛠️ [Tools and resources for practical implementation](/tools)
-- [Tutorials](/tutorials)
+- 🎓 [Tutorials](/tutorials)
 - 🔄 [Regular updates with the latest advancements](/updates/latest-updates.md)
 
 ## How to Contribute
@@ -13,4 +13,3 @@ Please read our 🤝 [Community-driven contributions and and guidelines](CONTRIB
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
