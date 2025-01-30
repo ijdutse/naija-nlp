@@ -49,9 +49,10 @@ List of research papers, linguistic tools and resources for low-resource natural
 | Title | Authors | Year | Link |
 |-------|---------|------|------|
 | [Deep Learning for Sentiment Analysis](https://arxiv.org/abs/1408.5882) | Kim, | 2014 | [PDF](https://arxiv.org/abs/1408.5882) |
-| [---](---) | --- | --- | [PDF](---) |
-
+| [Sentiment analysis for Hausa: Classifying students’ comments](https://aclanthology.org/2022.sigul-1.13.pdf) | Rakhmanov and Schlippe, | 2022 | [PDF](https://aclanthology.org/2022.sigul-1.13.pdf) |
+|[Lexicon dataset for the Hausa language](https://www.sciencedirect.com/science/article/pii/S2352340924000969)| Mohammed and Prasad | 2024 | [PDF](https://www.sciencedirect.com/science/article/pii/S2352340924000969)|
 </details>
+
 
 
 <details>
