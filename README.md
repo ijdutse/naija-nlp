@@ -2,20 +2,15 @@
 A curated list of research papers, resources (datasets, tools, etc), and updates in Natural Language Processing (NLP) and related fields for low-resource languages with focus on Nigerian languages. 
 
 ## Categories
-- [Research Papers](/papers)
+- 📑 [Curated list of LR-NLP research papers](/papers)
 - [Datasets](/datasets)
-- [Tools](/tools)
+- 🛠️ [Tools and resources for practical implementation](/tools)
 - [Tutorials](/tutorials)
-- [Latest Updates](/updates/latest-updates.md)
+- 🔄 [Regular updates with the latest advancements](/updates/latest-updates.md)
 
 ## How to Contribute
-Please read our [Contribution Guidelines](CONTRIBUTING.md) to add new resources or suggest improvements.
+Please read our 🤝 [Community-driven contributions and and guidelines](CONTRIBUTING.md) to add new resources or suggest improvements.
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-## Highlight
-- 📑 Curated list of LR-NLP research papers.
-- 🔄 Regular updates with the latest advancements.
-- 🤝 Community-driven contributions and discussions.
-- 🛠️ Tools and resources for practical implementation.
