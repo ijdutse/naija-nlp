@@ -15,4 +15,4 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 Please read our 🤝 [Community-driven contributions and and guidelines](CONTRIBUTING.md) to add new resources or suggest improvements.
 
 ## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE.md) for details.
