@@ -1,5 +1,5 @@
 ## Research Papers
-
+List of research papers, linguistic tools and resources for low-resource natural language processing (LR-NLP).
 <details>
 <summary><b>Formal Grammar and Linguistic Analysis</b></summary>
 
