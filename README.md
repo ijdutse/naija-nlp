@@ -3,7 +3,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/ijdutse/naija-nlp)
 
 # NaijaNLP: A Review of Nigerian Low-Resource Languages Tracker 
-A curated list of research papers, resources (datasets, tools, etc), and updates in Natural Language Processing (NLP) and related fields for low-resource languages with focus on Nigerian languages (NaijaNLP). 
+A curated list of research papers, resources (datasets, tools, etc), and updates in Natural Language Processing (NLP) and related fields for low-resource languages with focus on Nigerian languages (NaijaNLP). The paper is accessible [here](https://arxiv.org/pdf/2502.19784). 
 
 ---
 
@@ -13,20 +13,22 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 <summary>📑 Curated List of LR-NLP Research Papers</summary>
 
 ### Research Papers on Nigerian Languages
-1. **A Comprehensive Survey of NLP for Nigerian Languages**  
-   - Authors: John Doe, Jane Smith  
-   - Published: 2022  
-   - [Link to Paper](https://example.com)
+1. **Development of a diacritic-aware large vocabulary automatic speech recognition for Hausa language**  
+   - Authors: AM Abubakar, D Gupta, S Vekkot  
+   - Published: 2024  
+   - [Link to Paper](https://link.springer.com/article/10.1007/s10772-024-10111-x)
 
-2. **Machine Translation for Low-Resource Languages: A Case Study of Yoruba**  
-   - Authors: Adaobi Nwankwo  
-   - Published: 2021  
-   - [Link to Paper](https://example.com)
-
-3. **Building a Corpus for Igbo Language Processing**  
-   - Authors: Chika Eze, Emeka Okoro  
+2. **Hausamt v1. 0: Towards english-hausa neural machine translation**  
+   - Authors: A Akinfaderin  
    - Published: 2020  
-   - [Link to Paper](https://example.com)
+   - [Link to Paper](https://arxiv.org/pdf/2006.05014)
+
+
+3. **Development of a general purpose sentiment lexicon for Igbo language**  
+   - Authors: E Ogbuju, M Onyesolu  
+   - Published: 2020  
+   - [Link to Paper](https://arxiv.org/pdf/2004.14176)
+
 
 [View All Papers](/papers)
 </details>
@@ -35,20 +37,22 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 <summary>📊 Relevant Datasets for LR-NLP Projects</summary>
 
 ### Datasets for Nigerian Languages
-1. **Yoruba Text Corpus**  
-   - Description: A large collection of Yoruba texts for NLP tasks.  
-   - Size: 10,000 sentences  
-   - [Download Link](https://example.com)
+1. **Development of a diacritic-aware large vocabulary automatic speech recognition for Hausa language**  
+   - Authors: AM Abubakar, D Gupta, S Vekkot  
+   - Published: 2024  
+   - [Link to Paper](https://link.springer.com/article/10.1007/s10772-024-10111-x)
 
-2. **Igbo Speech Dataset**  
-   - Description: Audio recordings and transcriptions for Igbo speech recognition.  
-   - Size: 50 hours  
-   - [Download Link](https://example.com)
+2. **Hausamt v1. 0: Towards english-hausa neural machine translation**  
+   - Authors: A Akinfaderin  
+   - Published: 2020  
+   - [Link to Paper](https://arxiv.org/pdf/2006.05014)
 
-3. **Hausa-English Parallel Corpus**  
-   - Description: A parallel corpus for machine translation.  
-   - Size: 20,000 sentence pairs  
-   - [Download Link](https://example.com)
+
+3. **Development of a general purpose sentiment lexicon for Igbo language**  
+   - Authors: E Ogbuju, M Onyesolu  
+   - Published: 2020  
+   - [Link to Paper](https://arxiv.org/pdf/2004.14176)
+
 
 [View All Datasets](/datasets)
 </details>
