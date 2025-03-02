@@ -62,7 +62,6 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 [View All Datasets](/datasets)
 </details>
 
----
 <details>
 <summary>🛠️ Tools and Resources for Practical Implementation</summary>
 
@@ -88,7 +87,6 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 [View All Tutorials](/tutorials)
 </details>
 
---- 
 <details>
 <summary>🔄 Regular Updates with the Latest Advancements</summary>
 
