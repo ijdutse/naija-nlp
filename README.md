@@ -16,7 +16,7 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 
 - **New Resources**  
   Some new resources including datasets and NLP tools will be provided here.  
-  🔗 [Read More Here](/updates.md)
+  🔗 [Read More Here](/updates/latest-updates.md)
 
 
 ---
@@ -59,7 +59,7 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 
 
 
-[View All Datasets](/datasets)
+[View All Datasets](/datasets/multilingual-datasets.md)
 </details>
 
 <details>
@@ -71,7 +71,7 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
    - ........
 
 
-[View All Tools](/tools)
+[View All Tools](/tools/nlp-tools.md)
 </details>
 
 
@@ -84,7 +84,7 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
    - Link to Tutorial: 
 
 
-[View All Tutorials](/tutorials)
+[View All Tutorials](/tutorials/getting-started.md)
 </details>
 
 <details>
@@ -101,7 +101,7 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 
 3.....
 
-[View All Updates](/updates)
+[View All Updates](/updates/latest-updates.md)
 </details>
 
 ---
