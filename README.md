@@ -10,9 +10,9 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 ## 📂 Explore Categories
 
 <details>
-<summary>📑 Curated List of LR-NLP Research Papers</summary>
+<summary>📑 Curated List of NaijaNLP Research Papers</summary>
 
-### Research Papers on Nigerian Languages
+### Some Research Papers on Nigerian Languages
 1. **[Development of a diacritic-aware large vocabulary automatic speech recognition for Hausa language](https://link.springer.com/article/10.1007/s10772-024-10111-x)**  
 
 2. **[Hausamt v1. 0: Towards english-hausa neural machine translation](https://arxiv.org/pdf/2006.05014)**  
