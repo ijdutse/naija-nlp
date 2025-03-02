@@ -125,11 +125,12 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 List of contributors:
 - In Progress
 
+<!-- Repeat for other categories 
 ---
-
 ## 💬 Feedback
 Have suggestions or found an issue?  
 🔗 [Open an Issue](https://github.com/ijdutse/naija-nlp/issues)
+-->
 
 ---
 
