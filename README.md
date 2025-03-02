@@ -92,17 +92,15 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 <summary>🔄 Regular Updates with the Latest Advancements</summary>
 
 ### Latest Updates
-1. **New Yoruba Text Corpus Released (October 2023)**  
-   - Description: A new dataset with 50,000 Yoruba sentences has been released.  
-   - [Read More](/updates/yoruba-corpus)
+1.  **AI for Development Funders Collaborative AI4D**  
+   - Description: Uniting with local partners to combat inequality through inclusive, responsible AI made by and for communities in the Global South.  
+   - [Read More](https://www.ai4d-collaborative.org/)
+     
+2.  **Language Development**  
+   - Project: AI4D African Languages Lab.  
+   - [Read More](https://idrc-crdi.ca/en/what-we-do/projects-we-support/project/ai4d-african-languages-lab#:~:text=Specifically%2C%20the%20language%20lab%20seeks,training%20and%20mentorship%20programs%3B%20and)
 
-2. **IgboNLP Workshop Announced**  
-   - Description: A workshop on Igbo NLP will be held in December 2023.  
-   - [Read More](/updates/igbonlp-workshop)
-
-3. **Hausa Speech Recognition Model Achieves SOTA**  
-   - Description: A new model for Hausa speech recognition achieves state-of-the-art results.  
-   - [Read More](/updates/hausa-speech-model)
+3.....
 
 [View All Updates](/updates)
 </details>
