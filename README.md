@@ -1,10 +1,10 @@
-# NLP Research in Low-Resource Languages Tracker
+# NaijaNLP: A Review of Nigerian Low-Resource Languages Tracker 
 
 ![GitHub Stars](https://img.shields.io/github/stars/ijdutse/naija-nlp?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/ijdutse/naija-nlp)
 
-# NaijaNLP: A Review of Nigerian Low-Resource Languages Tracker 
+
 A curated list of research papers, resources (datasets, tools, etc), and updates in Natural Language Processing (NLP) and related fields for low-resource languages with focus on Nigerian languages (NaijaNLP). The paper is accessible [here](https://arxiv.org/pdf/2502.19784). 
 
 ---
