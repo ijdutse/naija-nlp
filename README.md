@@ -19,7 +19,7 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 
 3. **[Development of a general purpose sentiment lexicon for Igbo language](https://arxiv.org/pdf/2004.14176)**  
 
-[View All Papers](/research-papers)
+[View All Papers](/papers/research-papers)
 </details>
 
 <details>
