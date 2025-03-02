@@ -1,6 +1,6 @@
-# Contributing to NLP for low-resource languages Research Tracker
+# Contributing to NaijaNLP Research Tracker
 
-Thank you for your interest in contributing to the **NLP for low-resource languages Research Tracker**! This repository aims to curate and organise research papers, resources (datasets, tools), and tutorials in NLP for low resource languages with emphasis on Nigerian languages. 
+Thank you for your interest in contributing to the **NaijaNLP Research Tracker**! This repository aims to curate and organise research papers, resources (datasets, tools), and tutorials in NLP for low resource languages with emphasis on Nigerian languages. 
 Your contributions are highly appreciated and will help make this resource more valuable for the community.
 
 ## How to Contribute
