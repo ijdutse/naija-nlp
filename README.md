@@ -1,9 +1,32 @@
+# NLP Research in Low-Resource Languages Tracker
+
 ![GitHub Stars](https://img.shields.io/github/stars/ijdutse/naija-nlp?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/ijdutse/naija-nlp)
 
 # NaijaNLP: A Review of Nigerian Low-Resource Languages Tracker 
 A curated list of research papers, resources (datasets, tools, etc), and updates in Natural Language Processing (NLP) and related fields for low-resource languages with focus on Nigerian languages (NaijaNLP). The paper is accessible [here](https://arxiv.org/pdf/2502.19784). 
+
+---
+
+## 🌟 Featured
+- **AfricanNLP Workshop Announced**
+  Theme: Multilingual and Multicultural-aware LLMs  
+  🔗 [Learn More](https://sites.google.com/view/africanlp2025/homep)
+
+- **New Resources**  
+  Some new resources including datasets and NLP tools will be provided here.  
+  🔗 [Read More Here](/updates.md)
+
+
+---
+
+## Table of Contents
+- [Research Papers](#-curated-list-of-lr-nlp-research-papers)
+- [Datasets](#-relevant-datasets-for-lr-nlp-projects)
+- [Tools](#-tools-and-resources-for-practical-implementation)
+- [Tutorials](#-tutorials)
+- [Updates](#-regular-updates-with-the-latest-advancements)
 
 ---
 
@@ -39,6 +62,7 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 [View All Datasets](/datasets)
 </details>
 
+---
 <details>
 <summary>🛠️ Tools and Resources for Practical Implementation</summary>
 
@@ -50,6 +74,7 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 
 [View All Tools](/tools)
 </details>
+
 
 <details>
 <summary>🎓 Tutorials</summary>
@@ -63,6 +88,7 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 [View All Tutorials](/tutorials)
 </details>
 
+--- 
 <details>
 <summary>🔄 Regular Updates with the Latest Advancements</summary>
 
@@ -82,8 +108,32 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 
 ---
 
-## How to Contribute
-Please read our 🤝 [Community-driven contributions and guidelines](CONTRIBUTING.md) to add new resources or suggest improvements.
+## 📊 Statistics
+- **Research Papers**: 70+  
+- **Datasets**: 20+  
+- **Tools**: 15+  
+- **Tutorials**: 10+
+
+---
+
+## 🚀 Get Involved
+- Please read our 🤝 [Community-driven contributions and guidelines](CONTRIBUTING.md) to add new resources or suggest improvements.
+- 🌐 [Join the Community](https://example.com/community)
+
+
+---
+
+## 👥 Contributors
+List of contributors:
+- In Progress
+
+---
+
+## 💬 Feedback
+Have suggestions or found an issue?  
+🔗 [Open an Issue](https://github.com/ijdutse/naija-nlp/issues)
+
+---
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE.md) for details.
