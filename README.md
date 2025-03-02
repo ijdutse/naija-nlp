@@ -27,21 +27,13 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 <summary>📊 Relevant Datasets for NaijaNLP Projects</summary>
 
 ### Datasets for Nigerian Languages
-1. **Development of a diacritic-aware large vocabulary automatic speech recognition for Hausa language**  
-   - Authors: AM Abubakar, D Gupta, S Vekkot  
-   - Published: 2024  
-   - [Link to Paper](https://link.springer.com/article/10.1007/s10772-024-10111-x)
+1. **[Naijasenti: A nigerian twitter sentiment corpus for multilingual sentiment analysis](https://arxiv.org/pdf/2201.08277)**  
+   - Description: Contributed a multilingual data for sentiment analysis
 
-2. **Hausamt v1. 0: Towards english-hausa neural machine translation**  
-   - Authors: A Akinfaderin  
-   - Published: 2020  
-   - [Link to Paper](https://arxiv.org/pdf/2006.05014)
+2. **[Igbosum1500-introducing the igbo text summarization dataset](https://openreview.net/pdf?id=rMUccG4LZq)**  
 
+3. **[YorCALL: Improving and Sustaining Yoruba Language through a Practical Iterative Learning Approach.](https://ceur-ws.org/Vol-1755/1-5.pdf)**  
 
-3. **Development of a general purpose sentiment lexicon for Igbo language**  
-   - Authors: E Ogbuju, M Onyesolu  
-   - Published: 2020  
-   - [Link to Paper](https://arxiv.org/pdf/2004.14176)
 
 
 [View All Datasets](/datasets)
