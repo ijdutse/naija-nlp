@@ -24,7 +24,7 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 </details>
 
 <details>
-<summary>📊 Relevant Datasets for LR-NLP Projects</summary>
+<summary>📊 Relevant Datasets for NaijaNLP Projects</summary>
 
 ### Datasets for Nigerian Languages
 1. **Development of a diacritic-aware large vocabulary automatic speech recognition for Hausa language**  
@@ -51,20 +51,10 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 <summary>🛠️ Tools and Resources for Practical Implementation</summary>
 
 ### Tools for Nigerian Languages
-1. **NaijaLang Toolkit**  
-   - Description: A Python library for processing Nigerian languages.  
-   - Features: Tokenization, POS tagging, and more.  
-   - [GitHub Repository](https://example.com)
+1. **In Progress**  
+   - .....  
+   - ........
 
-2. **YorubaNLP**  
-   - Description: A suite of tools for Yoruba language processing.  
-   - Features: Sentiment analysis, text generation.  
-   - [GitHub Repository](https://example.com)
-
-3. **IgboTTS**  
-   - Description: Text-to-speech system for the Igbo language.  
-   - Features: High-quality voice synthesis.  
-   - [GitHub Repository](https://example.com)
 
 [View All Tools](/tools)
 </details>
@@ -72,18 +62,11 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 <details>
 <summary>🎓 Tutorials</summary>
 
-### Tutorials for NLP in Nigerian Languages
-1. **Getting Started with Yoruba NLP**  
-   - Description: A beginner-friendly guide to processing Yoruba text.  
-   - [Link to Tutorial](https://example.com)
+### Relevant Tutorials for NLP 
+1. **In Progress**  
+   - Description:   
+   - Link to Tutorial: 
 
-2. **Building a Hausa Language Model**  
-   - Description: Step-by-step guide to training a language model for Hausa.  
-   - [Link to Tutorial](https://example.com)
-
-3. **Creating a Parallel Corpus for Igbo-English Translation**  
-   - Description: Tutorial on building a dataset for machine translation.  
-   - [Link to Tutorial](https://example.com)
 
 [View All Tutorials](/tutorials)
 </details>
