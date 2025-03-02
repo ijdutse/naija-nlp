@@ -13,7 +13,7 @@ A curated list of research papers, resources (datasets, tools, etc), and updates
 <summary>📑 Curated List of LR-NLP Research Papers</summary>
 
 ### Research Papers on Nigerian Languages
-1. **Development of a diacritic-aware large vocabulary automatic speech recognition for Hausa language**  
+1. **[Development of a diacritic-aware large vocabulary automatic speech recognition for Hausa language](https://link.springer.com/article/10.1007/s10772-024-10111-x)**  
    - Authors: AM Abubakar, D Gupta, S Vekkot  
    - Published: 2024  
    - [Link to Paper](https://link.springer.com/article/10.1007/s10772-024-10111-x)
